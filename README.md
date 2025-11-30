@@ -6,8 +6,8 @@
 
 > **A hybrid Business Intelligence project demonstrating full-cycle data analysis: Advanced Data Cleaning in Excel  Relational Modeling & Dashboarding in Power BI.**
 
-![Dashboard Preview](dashboard.PNG)
-*(Note: Ensure your dashboard screenshot is saved as 'dashboard.png' inside the 'assets/images' folder)*
+![Dashboard Preview](/dashboard.PNG)
+
 
 ---
 
